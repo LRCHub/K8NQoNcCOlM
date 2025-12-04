@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Window Shopping",
+  "base_artist": "ralph",
+  "createdAt": "2025-12-04T08:53:57.824542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "Lisa Loeb",
+      "has_synced": true,
+      "path": "select/01_Window_Shopping_Lisa_Loeb.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Window Shopping for Blinds",
+      "artist": "The Beautiful South",
+      "has_synced": true,
+      "path": "select/02_Window_Shopping_for_Blinds_The_Beautiful_South.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "Jamelia",
+      "has_synced": false,
+      "path": "select/03_Window_Shopping_Jamelia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/04_Window_Shopping_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Window Shopping for New Clothes",
+      "artist": "The Undertones",
+      "has_synced": false,
+      "path": "select/05_Window_Shopping_for_New_Clothes_The_Undertones.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "Boris",
+      "has_synced": false,
+      "path": "select/06_Window_Shopping_Boris.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Window Shopping For Blinds",
+      "artist": "The Beautiful South",
+      "has_synced": true,
+      "path": "select/07_Window_Shopping_For_Blinds_The_Beautiful_South.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "The Jackson 5 feat. Michael Jackson",
+      "has_synced": false,
+      "path": "select/08_Window_Shopping_The_Jackson_5_feat._Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "The Jackson 5",
+      "has_synced": false,
+      "path": "select/09_Window_Shopping_The_Jackson_5.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/10_Window_Shopping_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "Yorke",
+      "has_synced": true,
+      "path": "select/11_Window_Shopping_Yorke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "window shopping (Original Mix)",
+      "artist": "Yorke",
+      "has_synced": true,
+      "path": "select/12_window_shopping_(Original_Mix)_Yorke.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Window Shopping (feat. Michael Jackson)",
+      "artist": "Jackson 5 feat. Michael Jackson",
+      "has_synced": false,
+      "path": "select/13_Window_Shopping_(feat._Michael_Jackson)_Jackson_5_feat._Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "Jackson 5",
+      "has_synced": false,
+      "path": "select/14_Window_Shopping_Jackson_5.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Window Shopping",
+      "artist": "Mock Orange",
+      "has_synced": false,
+      "path": "select/15_Window_Shopping_Mock_Orange.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Window Shopping - Single Version",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/16_Window_Shopping_-_Single_Version_Hank_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Window Shopping",
+      "artist": "ralph",
+      "has_synced": false,
+      "path": "select/pl_01_Window_Shopping_ralph.txt"
+    }
+  ]
+}
